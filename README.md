@@ -1,4 +1,4 @@
-# ¡Hola! Soy David 👋
+# ¡Hola! Soy David
 
 ### 🛡️ Administrador de Sistemas y Redes | Apasionado por la Ciberseguridad
 
