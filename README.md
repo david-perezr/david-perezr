@@ -2,7 +2,7 @@
 
 ### 🛡️ Administrador de Sistemas y Redes | Apasionado por la Ciberseguridad
 
-🚀 **Actualmente cursando el 2º año del grado superior de ASIR y Master en Ciberseguridad, abierto a oportunidades de prácticas (FCT) o roles Junior en administración de sistemas y redes.**
+🚀 **Actualmente cursando el 2º año del grado superior de ASIR y Master en Ciberseguridad, abierto a oportunidades de prácticas o roles Junior en administración de sistemas y redes.**
 
 Inmerso en el mundo de la infraestructura tecnológica, me especializo en el diseño de arquitecturas de red, la virtualización de entornos y la implementación de políticas de seguridad robustas. Mi objetivo es garantizar la disponibilidad, el rendimiento y la integridad de los servicios críticos empresariales.
 
@@ -56,7 +56,7 @@ Inmerso en el mundo de la infraestructura tecnológica, me especializo en el dis
 
 - 💻 **Entusiasta del Hardware Extremo:** Me apasiona el montaje de equipos de alto rendimiento y la optimización a nivel milimétrico (reducción de latencias del sistema, ajustes de BIOS y configuración de periféricos a nivel competitivo).
 - 🎮 **Esports y Estrategia:** Sigo muy de cerca la escena competitiva (especialmente en shooters tácticos y estrategia), analizando el rendimiento técnico, configuraciones profesionales y toma de decisiones bajo presión.
-- 🏋️ **Disciplina y Enfoque:** Mantengo mi constancia a través del entrenamiento de fuerza en el gimnasio, una rutina que me ayuda a mantener la mente clara y la resiliencia necesaria para afrontar problemas técnicos complejos.
+- 🏋️ **Disciplina y Enfoque:** Mantengo mi constancia a través del entrenamiento y el deporte, una rutina que me ayuda a mantener la mente clara y la resiliencia necesaria para afrontar problemas complejos.
 
 ---
 
