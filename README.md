@@ -63,5 +63,5 @@ Inmerso en el mundo de la infraestructura tecnológica, me especializo en el dis
 ### 📬 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-pérez-ramírez-4a8994210/?isSelfProfile=true)
-[![Portfolio Web](https://img.shields.io/badge/Portfolio_Web-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://david-perezr.github.io/Proyecto-1-Master/)
+[![Portfolio Web](https://img.shields.io/badge/Portfolio_Web-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://david-perezr.github.io/Portfolio-David/)
 [![Correo](https://img.shields.io/badge/Correo_Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](perezramirezdavid4@gmail.com)
